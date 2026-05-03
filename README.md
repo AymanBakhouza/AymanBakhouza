@@ -51,7 +51,7 @@ Dashboard interactivo de KPIs financieros para el seguimiento del rendimiento em
 
 ## Formación
 
-- **Desarrollo de Aplicaciones Web (DAW)** — IES Granada *(en curso)*
+- **Desarrollo de Aplicaciones Web (DAW)** — ITP Granada *(en curso)*
 - **Licenciatura en Economía y Gestión** — Université Mohammed Premier, Oujda
 
 ---
