@@ -9,7 +9,7 @@
 ### 🧑‍💻 Sobre mí
 
 - 🎓 Licenciado en **Economía y Gestión** — Université Mohammed Premier, Oujda  
-- 💻 Estudiante de **DAW** (Desarrollo de Aplicaciones Web) — IES Granada  
+- 💻 Estudiante de **DAW** (Desarrollo de Aplicaciones Web) — ITP Granada  
 - 📊 Mi objetivo: convertirme en **Data Analyst / Data Engineer** especializado en **Finanzas**  
 - 🌍 Idiomas: Árabe · Francés · Español · English  
 - 📫 Contacto: **bk.ayman04@gmail.com**
