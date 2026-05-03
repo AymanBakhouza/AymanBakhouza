@@ -9,7 +9,7 @@
 ### 🧑‍💻 Sobre mí
 
 - 🎓 Licenciado en **Economía y Gestión** — Université Mohammed Premier, Oujda  
-- 💻 Estudiante de **DAW** (Desarrollo de Aplicaciones Web) — ITP Granada  
+- 💻 Estudiante de **DAW** (Desarrollo de Aplicaciones Web) — IES Granada  
 - 📊 Mi objetivo: convertirme en **Data Analyst / Data Engineer** especializado en **Finanzas**  
 - 🌍 Idiomas: Árabe · Francés · Español · English  
 - 📫 Contacto: **bk.ayman04@gmail.com**
@@ -39,6 +39,14 @@
 
 ---
 
+### 🚀 Proyectos destacados
+
+- **[DinoReserve-ERP](https://github.com/AymanBakhouza/DinoReserve-ERP)** — Sistema ERP de gestión de reservas en Python (MVC).
+- 🔜 **Financial Data Analysis** — Análisis del mercado bursátil con Python & Pandas *(próximamente)*
+- 🔜 **Finance Dashboard** — Dashboard interactivo de KPIs financieros con Power BI *(próximamente)*
+
+---
+
 ### 🎯 Objetivo profesional
 
 Combinar mi formación en **Economía** con habilidades técnicas en **desarrollo y datos** para construir soluciones que aporten valor en el sector **financiero**: análisis de datos, automatización de reportes, y data engineering.
@@ -48,8 +56,24 @@ Combinar mi formación en **Economía** con habilidades técnicas en **desarroll
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanBakhouza&show_icons=true&theme=tokyonight" alt="stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanBakhouza&layout=compact&theme=tokyonight" alt="top langs" height="170"/>
+  <a href="https://github.com/AymanBakhouza">
+    <img src="https://github-readme-stats.vercel.app/api?username=AymanBakhouza&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="stats" height="170"/>
+  </a>
+  <a href="https://github.com/AymanBakhouza">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanBakhouza&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="top langs" height="170"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AymanBakhouza&theme=tokyonight&hide_border=true" alt="streak" height="170"/>
+</p>
+
+---
+
+### 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AymanBakhouza&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
 
 ---
