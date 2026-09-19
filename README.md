@@ -1,107 +1,143 @@
 <h1 align="center">Ayman Bakhouza</h1>
 
 <p align="center">
-  <strong>Data Analyst & Data Engineer</strong> &nbsp;•&nbsp; Finanzas · Analítica · Desarrollo Web
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Data+Analyst+%C2%B7+Data+Engineer+%C2%B7+Full-Stack+Developer;Finanzas+%C2%B7+Data+%C2%B7+SaaS+%C2%B7+E-commerce;Building+data-driven+and+real-world+digital+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aymanbakhouza/">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:bk.ayman04@gmail.com">bk.ayman04@gmail.com</a>
+  <a href="https://www.linkedin.com/in/aymanbakhouza/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayman%20Bakhouza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bk.ayman04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bk.ayman04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AymanBakhouza">
+    <img src="https://img.shields.io/badge/GitHub-AymanBakhouza-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
-Licenciado en **Economía y Gestión** por la Université Mohammed Premier (Oujda), actualmente cursando el ciclo de **Desarrollo de Aplicaciones Web (DAW)** en el IES Granada.
+Graduado en **Economía y Gestión** y actualmente cursando **Desarrollo de Aplicaciones Web (DAW)**.
 
-Mi objetivo profesional es desarrollarme como **Data Analyst** y **Data Engineer** en el sector financiero, combinando mi formación en economía con habilidades técnicas en programación, análisis de datos y bases de datos.
+Mi perfil combina **datos, finanzas y desarrollo de software**, con especial interés en:
 
-**Idiomas:** Árabe (nativo) · Francés (avanzado) · Español (avanzado) · Inglés (intermedio)
+- Data Analytics
+- Data Engineering
+- Business Intelligence
+- FinTech
+- SaaS
+- E-commerce
+- Full-Stack Development
 
----
-
-## Stack técnico
-
-**Lenguajes:** Python · SQL · JavaScript · PHP · HTML5 · CSS3
-
-**Análisis de datos:** Pandas · NumPy · Power BI · Excel avanzado
-
-**Bases de datos:** MySQL · PostgreSQL
-
-**Herramientas:** Git · GitHub · Visual Studio Code · Jupyter Notebook
+Trabajo en proyectos que conectan la parte técnica con necesidades reales de negocio.
 
 ---
 
-## Proyectos
+## 🧰 Stack técnico
 
-### 📁 [DinoReserve-ERP](https://github.com/AymanBakhouza/DinoReserve-ERP)
-Sistema ERP para la gestión integral de reservas y operaciones, desarrollado en **Python** siguiendo la arquitectura **MVC**.  
-**Tecnologías:** Python · MVC · SQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css,react,nextjs,mysql,postgres,supabase,git,github,vscode,vercel" />
+</p>
+
+### Datos & BI
+`Pandas` · `NumPy` · `Power BI` · `Excel` · `Jupyter`
+
+### Web & SaaS
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `Drizzle ORM`
+
+### E-commerce
+`Shopify` · `Liquid` · `JavaScript` · `GSAP` · `Shopify CLI`
+
+---
+
+## 🚀 Proyectos destacados
+
+### 📊 [DinoReserve-ERP](https://github.com/AymanBakhouza/DinoReserve-ERP)
+
+Sistema ERP para la gestión de reservas y operaciones, desarrollado en **Python** con arquitectura **MVC**.
+
+**Stack:** `Python` · `MVC` · `SQL`
 
 ---
 
 ### ⚖️ Granex Legal
-Plataforma SaaS para **abogados de extranjería en España**, diseñada para centralizar expedientes, clientes, documentos, plazos, automatizaciones y herramientas asistidas por IA.
 
-Incluye gestión multiusuario y multiempresa, control de acceso mediante roles, almacenamiento seguro de documentación, calendarios y recordatorios, generación asistida de documentos y una arquitectura orientada a entornos jurídicos profesionales.
+Plataforma SaaS para **abogados de extranjería en España**, orientada a centralizar expedientes, clientes, documentos, plazos y automatizaciones.
 
-**Tecnologías:** Next.js · TypeScript · React · Tailwind CSS · Supabase · PostgreSQL · Drizzle ORM · AI APIs · Vercel
+**Stack:** `Next.js` · `TypeScript` · `React` · `Supabase` · `PostgreSQL` · `Drizzle ORM` · `Vercel`
 
-**Características principales:**
-- Gestión de expedientes y clientes
-- Sistema multi-tenant con aislamiento de datos
-- Autenticación y control de permisos
+**Highlights:**
+- Multi-tenant
 - Gestión documental
-- Calendario, plazos y recordatorios
+- Roles y permisos
+- Calendario y recordatorios
 - Herramientas asistidas por IA
 - Internacionalización ES / FR / AR
 - Auditoría y seguridad
-- Infraestructura de producción y staging
+- Staging + producción
 
 ---
 
 ### 🛍️ [Azra Luxury Kaftan Shop Project](https://github.com/AymanBakhouza/Azra-Luxury-Kaftan-Shop-Project)
-Desarrollo de una tienda online premium para **AZRA**, una marca de caftanes de lujo, construida sobre **Shopify Online Store 2.0** con una experiencia visual editorial enfocada en moda y storytelling.
 
-El proyecto incluye secciones Liquid personalizadas, páginas de producto y colección, storytelling de marca, experiencia responsive, soporte bilingüe y animaciones avanzadas.
+Tienda online premium desarrollada para **AZRA**, una marca de caftanes de lujo, con una experiencia visual editorial sobre **Shopify Online Store 2.0**.
 
-**Tecnologías:** Shopify · Liquid · JavaScript · CSS · GSAP · Shopify CLI
+**Stack:** `Shopify` · `Liquid` · `JavaScript` · `CSS` · `GSAP`
 
-**Características principales:**
+**Highlights:**
 - Tema Shopify personalizado
-- Secciones Liquid desarrolladas a medida
-- Diseño editorial para moda de lujo
+- Secciones Liquid a medida
+- Diseño editorial de lujo
 - Páginas Our Story y Atelier
-- Catálogo y fichas de producto personalizadas
-- Blog / Journal
-- Soporte English / Español
-- Diseño responsive
-- Animaciones GSAP y ScrollTrigger
-- Optimización para experiencia e-commerce
+- Journal / Blog
+- EN / ES
+- Responsive
+- GSAP + ScrollTrigger
 
 ---
 
-## Formación
+## 📈 GitHub
 
-- **Desarrollo de Aplicaciones Web (DAW)** — ITP Granada *(en curso)*
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AymanBakhouza&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanBakhouza&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AymanBakhouza&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Formación
+
+- **Desarrollo de Aplicaciones Web (DAW)** — Granada *(en curso)*
 - **Licenciatura en Economía y Gestión** — Université Mohammed Premier, Oujda
 
 ---
 
-## Contacto
+## 🌍 Idiomas
 
-Abierto a oportunidades profesionales y prácticas en **análisis de datos**, **business intelligence** y **data engineering**, especialmente en el sector financiero.
+`Árabe — Nativo`  
+`Francés — Avanzado`  
+`Español — Avanzado`  
+`Inglés — Intermedio`
 
-✉️ **bk.ayman04@gmail.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/aymanbakhouza/)
-<h1 align="center">Ayman Bakhouza</h1>
+---
+
+## 📬 Contacto
 
 <p align="center">
-  <strong>Data Analyst & Data Engineer</strong> &nbsp;•&nbsp; Finanzas · Analítica · Desarrollo Web
+  <strong>Abierto a oportunidades en Data, BI, Data Engineering, FinTech y Desarrollo Web.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aymanbakhouza/">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:bk.ayman04@gmail.com">bk.ayman04@gmail.com</a>
+  <a href="mailto:bk.ayman04@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/aymanbakhouza/">LinkedIn</a>
+  ·
+  <a href="https://github.com/AymanBakhouza">GitHub</a>
 </p>
-
